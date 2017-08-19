@@ -1,0 +1,16 @@
+{
+  "name": "Jonathan Herring",
+  "title": "Kumquat King",
+  "favorite games": [
+    {
+      "1st game": {
+        "name": "Puzzles & Dragons",
+        "Genres":["mobile","puzzle"]
+      },
+      "2nd game": {
+        "name":"Death By",
+        "Genres": ["party", "improv"]
+      }
+    }
+  ]
+}
